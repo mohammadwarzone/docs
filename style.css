@@ -19,4 +19,5 @@ main,
   > div.flex.flex-row.gap-12.box-border.w-full.pt-\[120px\].lg\:pt-0 {
   justify-content: center;
   align-items: center;
+  height: calc(100vh - 64px);
 }
