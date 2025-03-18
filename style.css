@@ -1,0 +1,22 @@
+#help-topics,
+#content-area > div > div {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+main,
+#__next > main > div,
+#__next
+  > main
+  > div
+  > div.flex.flex-row.gap-12.box-border.w-full.pt-\[120px\].lg\:pt-0 {
+  height: 100vh;
+}
+
+#__next
+  > main
+  > div
+  > div.flex.flex-row.gap-12.box-border.w-full.pt-\[120px\].lg\:pt-0 {
+  justify-content: center;
+  align-items: center;
+}

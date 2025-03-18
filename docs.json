@@ -3,16 +3,16 @@
   "theme": "mint",
   "name": "Renotive",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#5C3CD3",
+    "light": "#5C3CD3",
+    "dark": "#5C3CD3"
   },
   "favicon": "/favicon.svg",
   "navigation": {
     "dropdowns": [
       {
-        "dropdown": "Introduction",
-        "pages": ["introduction"]
+        "dropdown": "Home",
+        "pages": ["home"]
       },
       {
         "dropdown": "Getting Started",
